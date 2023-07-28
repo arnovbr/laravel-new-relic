@@ -1,5 +1,5 @@
 {
-    "name": "jackwh/laravel-new-relic",
+    "name": "arnovbr/laravel-new-relic",
     "description": "Monitor your Laravel application performance with New Relic",
     "keywords": [
         "JackWH",
